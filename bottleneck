@@ -1,0 +1,12 @@
+n=int(input("enter no of inputs"))
+for i in range(n):
+a.append('')
+a.sort()
+while i>0:
+ifa[i]<a[i+1]:
+
+
+
+
+
+
